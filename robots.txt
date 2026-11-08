@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add a Sitemap directive after you set your verified domain.
